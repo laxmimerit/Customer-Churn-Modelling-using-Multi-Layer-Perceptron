@@ -1,5 +1,7 @@
 # Customer-Churn-Modelling-using-Multi-Layer-Perceptron
 
+YouTube Lecture: https://youtu.be/lx2WKcE0ONc
+
 In this tutorial, we will be discussing customer churn modeling using a multilayer perceptron (MLP) model. Churn modeling is a crucial aspect of businesses, as it helps in identifying customers who are likely to leave the company. MLP is a type of artificial neural network that can be used to predict customer churn. We will be covering the following topics in this tutorial:
 - Introduction to customer churn modeling
 - Understanding the MLP model
